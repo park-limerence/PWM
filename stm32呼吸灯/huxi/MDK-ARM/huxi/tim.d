@@ -1,0 +1,30 @@
+huxi\tim.o: ../Core/Src/tim.c
+huxi\tim.o: ../Core/Inc/tim.h
+huxi\tim.o: ../Core/Inc/main.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+huxi\tim.o: ../Core/Inc/stm32f1xx_hal_conf.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+huxi\tim.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+huxi\tim.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+huxi\tim.o: ../Drivers/CMSIS/Include/core_cm3.h
+huxi\tim.o: D:\soft download position\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+huxi\tim.o: ../Drivers/CMSIS/Include/cmsis_version.h
+huxi\tim.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+huxi\tim.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+huxi\tim.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+huxi\tim.o: D:\soft download position\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+huxi\tim.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
